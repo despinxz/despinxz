@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Eloisa 👋
 
-<!--
-**despinxz/despinxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- Software Developer with experience in **Python, .NET, Angular, Flask, and SQL**
+- Based in São Paulo, Brazil 🌎
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+**Languages & Frameworks:** Python, C#, Java, SQL, Angular, Flask, .NET, Bootstrap  
+**Tools:** Git, VS Code, Visual Studio, PyCharm  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: [eloisa.guisse.dev@gmail.com](mailto:eloisa.guisse.dev@gmail.com)  
+- LinkedIn: [linkedin.com/in/eloisa-antero-guisse](https://www.linkedin.com/in/eloisa-antero-guisse-0891a424a/)  
+- GitHub: [github.com/despinxz](https://github.com/despinxz)
+
+## 📊 GitHub Stats
+![Eloisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=despinxz&show_icons=true&theme=radical)
