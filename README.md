@@ -13,5 +13,11 @@
 - LinkedIn: [linkedin.com/in/eloisa-antero-guisse](https://www.linkedin.com/in/eloisa-antero-guisse-0891a424a/)  
 - GitHub: [github.com/despinxz](https://github.com/despinxz)
 
-## 📊 GitHub Stats
-![Eloisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=despinxz&show_icons=true&theme=radical)
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
