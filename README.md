@@ -1,7 +1,7 @@
 # Hi there, I'm Eloisa 👋
 
 ## 👩‍💻 About Me
-- Software Developer with experience in **Python, .NET, Angular, Flask, and SQL**
+- Software Developer with experience in **Python, C#, Angular, Flask, and SQL**
 - Based in São Paulo, Brazil 🌎
 
 ## 🛠️ Skills
